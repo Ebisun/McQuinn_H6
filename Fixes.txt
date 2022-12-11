@@ -1,0 +1,4 @@
+Damians:
+	"this" was spelled wrong in one spot
+	login attempts was being subrtarcted from not added to
+	name string wasn't declared as a string.

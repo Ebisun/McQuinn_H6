@@ -18,7 +18,7 @@ namespace Lab5
      */
     public partial class Form1 : Form
     {
-        const PROGRAMMER = "Damian Bernatchez";
+        const string PROGRAMMER = "Damian Bernatchez";
         public Form1()
         {
             InitializeComponent();
@@ -59,7 +59,7 @@ namespace Lab5
                 }
                 else
                 {
-                    incorrectGuesses--;
+                    incorrectGuesses++;
                     MessageBox.Show(incorrectGuesses + " incorrect code(s) entered\nTry Again - only "+ attemptsAllowed +" attempts allowed",PROGRAMMER);
                 }
             }
@@ -71,7 +71,7 @@ namespace Lab5
         //This function clears the Text Group box
         void ResetTextGrp()
         {
-            tihs.AcceptButton = btnJoin;
+            this.AcceptButton = btnJoin;
             this.CancelButton = btnReset;
             txtString1.Text = "";
             txtString2.Text = "";

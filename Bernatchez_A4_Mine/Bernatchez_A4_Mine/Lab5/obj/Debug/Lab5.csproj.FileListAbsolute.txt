@@ -28,3 +28,6 @@ C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatch
 C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\obj\Debug\Lab5.exe
 C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\obj\Debug\Lab5.pdb
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\bin\Debug\Lab5.exe
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\Bernatchez_A4_Mine\Bernatchez_A4_Mine\Lab5\bin\Debug\Lab5.pdb

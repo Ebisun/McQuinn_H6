@@ -20,3 +20,14 @@ C:\Users\husky\Documents\School\PROG\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.Genera
 C:\Users\husky\Documents\School\PROG\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\Users\husky\Documents\School\PROG\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
 C:\Users\husky\Documents\School\PROG\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\bin\Debug\Lab5.exe
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\bin\Debug\Lab5.pdb
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.exe
+C:\Users\husky\Documents\Repos\McQuinn_H6\McQuinn_H6\McQuinn_A4_Yours\McQuinn_A4_Yours\Lab5\obj\Debug\Lab5.pdb

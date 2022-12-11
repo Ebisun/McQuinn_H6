@@ -13,7 +13,7 @@ namespace Lab5
     public partial class Form1 : Form
     {   
         int loginAttCount = 0;
-        string PROGRAMMER = "Hunter;
+        string PROGRAMMER = "Hunter";
         public int GetRandom(int min, int max)
         {
             //Create a random object with no seed value.
@@ -57,7 +57,7 @@ namespace Lab5
                 grpStats.Visible = false;
             }
         }
-        public void Swap(ref string strOne, string strTwo)
+        public void Swap(ref string strOne, ref string strTwo)
         {
             string placeholder = strOne;
             strOne = strTwo;
@@ -99,7 +99,7 @@ namespace Lab5
         {
             InitializeComponent();
             //Add your name to the end of the form title using the constant. Do not type
-            this.Text == PROGRAMMER;
+            this.Text += PROGRAMMER;
             //Lab 5 by (it is already there!). Hide all the groups except Login.
             grpChoose.Visible =false;
             grpStats.Visible =false;
